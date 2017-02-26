@@ -18,7 +18,7 @@ def find_unique(col):
 
 def crimes_beat(beat):
 	crimes = {}
-	for row in range(2, 11163): 
+	for row in range(2, 11163):
 		if ws.cell(column=8, row=row).value == beat:
 			location = ws.cell(column=5, row=row).value
 			type_crime = ws.cell(column=3, row=row).value
