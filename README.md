@@ -1,4 +1,4 @@
-# MastersMathModelingCompetitionCode
+# Masters Math Modeling Competition Code
 Code used by the Masters School Math Modeling team in competitions.
 
 ## Awards
