@@ -1,5 +1,5 @@
 # Masters Math Modeling Competition Code
-Code used by the Masters School Math Modeling team in competitions.
+Code used by the Masters School Math Modeling team in competitions. All rights reserved.
 
 ## Awards
 * National Finalist - International Mathematical Modeling Challenge 2017
