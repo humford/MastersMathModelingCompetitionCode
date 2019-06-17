@@ -3,3 +3,11 @@
 *.xml
 *.txt
 
+
+\.ipynb_checkpoints/HiMCM2017-checkpoint\.ipynb
+
+*.json
+
+*.csv
+
+*.xls
